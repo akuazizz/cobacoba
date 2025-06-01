@@ -26,4 +26,4 @@ jobs:
 
     - name: Check Streamlit script compiles
       run: |
-        python -m py_compile app.py  # ganti dengan nama file utama kamu
+        python -m py_compile dashboard.py
