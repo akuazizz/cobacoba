@@ -1,0 +1,4 @@
+{
+    "git.enabled": true,
+    "github-actions.workflows.pinned.refresh.enabled": false
+}
